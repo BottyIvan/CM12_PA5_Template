@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App" parent="@android:style/Theme.Material.Light.DarkActionBar" >
+        <item name="android:statusBarColor">#1e8018</item>
+        <item name="android:colorPrimary">#228e1b</item>
+    </style>
+</resources>

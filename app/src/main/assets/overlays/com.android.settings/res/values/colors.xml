@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_accent">#7bace0</color>
+    <color name="switchbar_background_color">#a9a9a9</color>
+    <color name="switch_accent_color">#ffff</color>
+    <color name="theme_primary">#ff212021</color>
+    <color name="theme_primary_dark">#ff212021</color>
+    <color name="theme_blue">#6d99c7</color>
+</resources>

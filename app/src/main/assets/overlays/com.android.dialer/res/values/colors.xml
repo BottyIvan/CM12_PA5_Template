@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialer_theme_color">#729fcf</color>
+    <color name="dialer_theme_color_dark">#6d99c7</color>
+    <color name="dialtacts_theme_color">#ff262626</color>
+</resources>

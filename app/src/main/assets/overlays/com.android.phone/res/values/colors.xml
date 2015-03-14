@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="dialer_theme_color">#729fcf</color>
+    <color name="dialer_theme_color_dark">#729fcf</color>
+	<color name="people_app_theme_color">#729fcf</color>
+</resources>
