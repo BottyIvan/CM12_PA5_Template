@@ -64,9 +64,15 @@
     <item component="ComponentInfo{de.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="amazonshop" />
     <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazonshop" />
     <item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazonshop" />
+    <item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="kindle" />
 
     <!-- App of Adobe -->
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="adobereader" />
+
+    <!-- Other Launcher -->
+    <item component="ComponentInfo{org.adw.launcher/org.adw.launcherlib.Launcher}" drawable="adw_normal" />
+    <item component="ComponentInfo{org.adwfreak.launcher/org.adw.launcherlib.Launcher}" drawable="adw_ex" />
+
 
     <!-- Other app -->
     <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify" />
